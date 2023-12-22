@@ -14,3 +14,6 @@
 2. Pandas
 3. Seaborn
 
+![Screenshot 2023-12-22 201439](https://github.com/tohidSakib/Analyzing-Sales-Data/assets/152166325/177c16d8-6b58-43c0-9020-433493617086)
+
+![Screenshot 2023-12-22 201531](https://github.com/tohidSakib/Analyzing-Sales-Data/assets/152166325/9896b7cd-9514-41e0-9823-cc3661983d94)
